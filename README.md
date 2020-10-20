@@ -1,5 +1,3 @@
-//dp
-//making change using dynamic programming
 #include<bits/stdc++.h>
 using namespace std;
 int count( int S[], int m, int n ) 
